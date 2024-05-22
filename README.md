@@ -389,7 +389,6 @@ The software orchestration worked perfectly! No crashes or pesky bugs 🚀. Some
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <div style="text-align: center; margin: 10px;">
     <img src="assets/kwh-chart.png" alt="Results" width="800">
-    <p style="font-style: italic;"><a href="https://docs.google.com/spreadsheets/d/1viSDG4_NQdTIaDTuc5jMEN4j0msnUhXYWto5N_62OMs/edit?usp=sharing">Complete Results</a></p>
   </div>
 </div>
 
